@@ -3,6 +3,8 @@ from pygame import *
 
 #mencoba github
 
+#ini yang nambah Kak Dana langsung
+
 #parent class for other sprites
 class GameSprite(sprite.Sprite):
  #class constructor
