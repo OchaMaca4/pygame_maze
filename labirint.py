@@ -1,6 +1,7 @@
 # Create your game in this file!
 from pygame import *
 
+#mencoba github
 
 #parent class for other sprites
 class GameSprite(sprite.Sprite):
